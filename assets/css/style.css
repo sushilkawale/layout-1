@@ -1,0 +1,118 @@
+*{
+	margin: 0px;
+	padding:0px;
+	box-sizing:border-box;
+
+}
+/* Helper Classes */
+.container{
+	width:1200px;
+	margin: 0 auto;
+}
+.row{
+	width: 100%;
+	display: inline-block;
+}
+a{
+	text-decoration:none;
+}
+.mt-5{
+	margin-top: 5px;
+}
+.mb-5{
+	margin-bottom: 5px;
+}
+
+.mt-10{
+	margin-top: 10px;
+}
+.mb-10{
+	margin-bottom: 10px;
+}
+
+.mt-20{
+	margin-top: 20px;
+}
+.mb-20{
+	margin-bottom: 20px;
+}
+.mb-30{
+	margin-bottom:30px;
+}
+.mb-30{
+	margin-bottom: 30px;
+}
+.textCenter{
+	text-align:center;
+}
+.texright{
+	text-align:right;
+}
+
+/* Helper Classes */
+
+
+/* Header css */
+
+.header h1{
+	
+margin: 40px;
+color:#be2230;
+font-size: 40px;
+
+}
+
+.nav{
+	list-style:none;
+	
+}
+.nav li{
+	
+display:inline-block;
+margin-left: 10px;
+
+}
+.nav li a{
+	display:inline-block;
+	padding:10px;
+	text-transform:capitalize;
+	color:#424242;
+	font-size:14px;	
+}
+
+
+/* Header css */
+
+/* hero Img css */
+
+.heroImg img{
+	width:100%;
+}
+
+/* hero Img  css */
+
+
+/* About us  css */
+
+.lipsum{
+	font-size: 14px;
+
+    color=#2e2e2e;
+}
+
+.aboutus{
+	font-size:30px;
+    color: #be2230;
+}
+/* About us  css */
+
+
+
+
+
+
+
+
+
+
+
